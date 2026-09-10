@@ -1,0 +1,6 @@
+interface:
+  display_name: "Codex Repo Guide"
+  short_description: "Explain repos and plan a safe first start"
+  default_prompt: "Use $codex-repo-guide to explain this repository and tell me how to start safely."
+policy:
+  allow_implicit_invocation: true
