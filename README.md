@@ -12,6 +12,10 @@ The skill reads the repository's own documentation and configuration, distinguis
 
 The skill analyzes repository files available in the current Codex workspace. A GitHub page open in a browser is not automatically the workspace; clone, download, or open the repository files before running it.
 
+## Download it
+
+On GitHub, choose **Code → Download ZIP**, extract the archive, and install the `codex-repo-guide` folder as a Codex skill. You can also ask Codex to install it directly from this repository URL with `$skill-installer`.
+
 ## Contents
 
 - `SKILL.md` — the skill instructions
