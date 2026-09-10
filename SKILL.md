@@ -9,6 +9,10 @@ metadata:
 
 Give the user an evidence-backed orientation to a repository and a practical way to begin. Keep the result specific to the repository in scope.
 
+## Scope
+
+Inspect repository files available in the current local workspace. A GitHub page open in a browser or a URL in the user's message is not automatically repository content; if the workspace does not contain the repository, report that and explain that it must be cloned, downloaded, or opened first.
+
 ## Workflow
 
 1. Inspect the repository root and file tree. Read the README, manifests, lockfiles, configuration, task scripts, CI files, and the most relevant entry points. Use fast file search and focused reads instead of dumping the whole repository.
