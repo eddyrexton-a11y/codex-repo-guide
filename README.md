@@ -14,7 +14,11 @@ The skill analyzes repository files available in the current Codex workspace. A 
 
 ## Download it
 
-On GitHub, choose **Code → Download ZIP**, extract the archive, and install the `codex-repo-guide` folder as a Codex skill. You can also ask Codex to install it directly from this repository URL with `$skill-installer`.
+On GitHub, choose **Code → Download ZIP**, extract the archive, and install the folder that contains `SKILL.md` as a Codex skill.
+
+In Codex, you can also ask:
+
+> Use `$skill-installer` to install the GitHub repository `eddyrexton-a11y/codex-repo-guide` from its repository root (`.`).
 
 ## Contents
 
